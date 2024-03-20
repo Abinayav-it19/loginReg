@@ -1,14 +1,9 @@
-# React CRUD App 
-
-> A CRUD application which edits user records in React using reqres API.  
-
-## Build Setup And Login Instructions
-
-
+PROBLEM 2
 # for logging in use-:(Sample)
 $ Email:-eve.holt@reqres.in
 $ Password:-Any
 
-# build for production
-$ npm build
+
+PROBLEM 1
+problem 1 code added here
 
